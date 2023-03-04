@@ -1,6 +1,6 @@
 ### Howdy!
 
-My name is Peyton, and I'm a software engineer with a passion for data. I've worked in a variety of roles, mostly in Go and Python, and generally on the backend, though I've been known to dabble on the front end too.
+My name is Peyton, and I'm a software engineer with a passion for data. 
 
 You can find examples of some of my work, used in production at companies like Progressive, Cisco, and Deliveroo, [here](#examples-of-previous-work).
 
@@ -20,7 +20,7 @@ But a great team beats all of that.
 
 💻 **Experience Overview**
 
-Most recently I worked at Prefect, a python data orchestration tool, where I built software to allow data scientists and data engineers to run their code in environments like AWS, GCP, and Kubernetes, with support for mixed synchronous, asynchronous, and parallel execution.
+I've worked in a variety of roles, mostly in Go and Python, and generally on the backend, though I've been known to dabble on the front end too. Most recently I worked at Prefect, a python data orchestration tool, where I built software to allow data scientists and data engineers to run their code in environments like AWS, GCP, and Kubernetes, with support for mixed synchronous, asynchronous, and parallel execution.
 
 Prior to that I was one of the first engineers at a recycling company with a heavy emphasis on data and analytics. Our applications were a combination of Go and Python on the backend, and Angular on the frontend. 
 
@@ -36,7 +36,7 @@ I like to write occasionally. Here are a few of posts that you might enjoy:
 
 [Introduction to Calibration Curves](https://peyton-runyan.ltrdrp.com/c/introduction-to-calibration-curves-1)
 
-[Getting Start with Prefect 2](https://www.prefect.io/guide/blog/getting-started-prefect-2/)
+[Getting Started with Prefect 2](https://www.prefect.io/guide/blog/getting-started-prefect-2/)
 
 [A Better Explanation of Precision and Recall](https://peyton-runyan.ltrdrp.com/c/a-better-explanation-of-precision-and-recall-1)
 
