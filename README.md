@@ -2,7 +2,7 @@
 
 My name is Peyton, and I'm a software engineer engineer with a passion for data. I've worked in a variety of roles, mostly in Go and Python, and generally on the backend, though I've been known to dabble on the front end too.
 
-You can find examples of some of my work, used in production at companies like Progressive, Cisco, and Deliveroo, [here](### Examples of previous work).
+You can find examples of some of my work, used in production at companies like Progressive, Cisco, and Deliveroo, [here](#Examples of previous work).
 
 🏹 **What I'm looking for**
 
