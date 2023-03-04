@@ -5,16 +5,18 @@ My name is Peyton, and I'm a software engineer engineer with a passion for data.
 You can find examples of some of my work, used in production at companies like Progressive, Cisco, and Deliveroo, here.
 
 🏹 **What I'm looking for**
+
 I'm on the hunt for my next role right now. If you work on an awesome team and are looking for your next teammate, I'd love to hear from you. Backend roles dealing with data-intensive systems, or backend roles with room for spending a bit of time on the frontend, are a great match for my current intrests, but a great team beats all of that. 
 
 💻 **Experience Overview**
+
 Most recently I worked at Prefect, a python data orchestration tool, where I built software to allow data scientists and data engineers to run their code in environments like AWS, GCP, and Kubernetes, with support for mixed synchronous, asynchronous, and parallel execution.
 
 Prior to that I was one of the first engineers at a recycling company with a heavy emphasis on data and analytics. Most of my other work has been contract work in analytics and backend for crypto startups. 
 
 
-
 🚧 ### Example of previous work
+
 TODO
 
 
