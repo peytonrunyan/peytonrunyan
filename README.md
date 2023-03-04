@@ -16,7 +16,7 @@ I'm on the hunt for my next role right now. If you work on an awesome team and a
 * Backend roles dealing with data-intensive systems
 * Backend roles with room for spending a bit of time on the frontend
 
-But a great team beats all of that. 
+But a great team beats all of that. Great teams come in all shapes and sizes, but I tend to enjoy regular sync collaboration with teammates, a culture of active code review, and more autonomy than less. 
 
 💻 **Experience Overview**
 
@@ -32,7 +32,7 @@ You can email me at peytonrunyan@gmail.com or connect with me on LinkedIn [here]
 
 📝 **Blogs**
 
-I like to write occasionally. Here are a few of posts that you might enjoy:
+I like to write occasionally. Here are a few posts that you might enjoy:
 
 [Introduction to Calibration Curves](https://peyton-runyan.ltrdrp.com/c/introduction-to-calibration-curves-1)
 
@@ -42,7 +42,7 @@ I like to write occasionally. Here are a few of posts that you might enjoy:
 
 ### Examples of Previous Work
 
-This are just a few examples of my contributions, but hopefully they give you an idea of the code that I write and my approach to design.
+These are just a few examples of my contributions, but hopefully they give you an idea of the code that I write and my approach to design.
 
 [Run Prefect flows on serverless infrastructure using Google Cloud Run](https://github.com/PrefectHQ/prefect-gcp/pull/48)
 
@@ -54,7 +54,7 @@ This PR gave Prefect users the ability to orchestrate code that was defined in b
 
 [Base configuration for designing workers to execute code on any infrastructure](https://github.com/PrefectHQ/prefect/pull/8100)
 
-This PR introduces configuration for an experimental workers features. It allows contributors to design templates for configuring code execution on infrastructure of their choice. The key challenge here designing the configuration so that it would be ergonomic, compitible with the expectations of users familiar with pydanic, and arbitrarily extensible. 
+This PR introduces configuration for an experimental workers features. It allows contributors to design templates for configuring code execution on infrastructure of their choice. The key challenge here was designing the configuration so that it would be ergonomic, compitible with the expectations of users familiar with Pydantic, and arbitrarily extensible. 
 
 <!--
 **peytonrunyan/peytonrunyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
