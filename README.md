@@ -18,7 +18,8 @@ Prior to that I was one of the first engineers at a recycling company with a hea
 
 You can email me at peytonrunyan@gmail.com or connect with me on LinkedIn [here](https://www.linkedin.com/in/peyton-runyan/).
 
-🚧 ### Examples of previous work
+🚧
+### Examples of previous work
 
 [Run Prefect flows on serverless infrastructure using Google Cloud Run](https://github.com/PrefectHQ/prefect-gcp/pull/48)
 
