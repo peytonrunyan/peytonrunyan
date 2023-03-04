@@ -2,7 +2,7 @@
 
 My name is Peyton, and I'm a software engineer engineer with a passion for data. I've worked in a variety of roles, mostly in Go and Python, and generally on the backend, though I've been known to dabble on the front end too.
 
-You can find examples of some of my work, used in production at companies like Progressive, Cisco, and Deliveroo, [here](#Examples of previous work).
+You can find examples of some of my work, used in production at companies like Progressive, Cisco, and Deliveroo, [here](#examples-of-previous-work).
 
 🏹 **What I'm looking for**
 
@@ -18,7 +18,7 @@ Prior to that I was one of the first engineers at a recycling company with a hea
 
 You can email me at peytonrunyan@gmail.com or connect with me on LinkedIn [here](https://www.linkedin.com/in/peyton-runyan/).
 
-🚧
+🚧    🚧    🚧    🚧
 ### Examples of previous work
 
 [Run Prefect flows on serverless infrastructure using Google Cloud Run](https://github.com/PrefectHQ/prefect-gcp/pull/48)
