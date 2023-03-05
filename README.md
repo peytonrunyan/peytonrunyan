@@ -4,7 +4,7 @@ My name is Peyton, and I'm a software engineer with a passion for data.
 
 You can find examples of some of my work, used in production at companies like Progressive, Cisco, and Deliveroo, [here](#examples-of-previous-work).
 
-🌎    Location
+🌎 **Location**
 
 I generally work remotely, but am based out of Durham, North Carolina. I'm always happy to meet people in person!
 
@@ -12,7 +12,7 @@ I generally work remotely, but am based out of Durham, North Carolina. I'm alway
 
 I'm on the hunt for my next role right now. If you work on an awesome team and are looking for your next teammate, I'd love to hear from you. 
 
-**I am especially Interested In**
+**I am especially interested in**
 * Backend roles dealing with data-intensive systems
 * Backend roles with room for spending a bit of time on the frontend
 
@@ -40,7 +40,7 @@ I like to write occasionally. Here are a few posts that you might enjoy:
 
 [A Better Explanation of Precision and Recall](https://peyton-runyan.ltrdrp.com/c/a-better-explanation-of-precision-and-recall-1)
 
-### Examples of Previous Work
+### Examples of previous work
 
 These are just a few examples of my contributions, but hopefully they give you an idea of the code that I write and my approach to design.
 
@@ -54,7 +54,7 @@ This PR gave Prefect users the ability to orchestrate code that was defined in b
 
 [Base configuration for designing workers to execute code on any infrastructure](https://github.com/PrefectHQ/prefect/pull/8100)
 
-This PR introduces configuration for an experimental workers features. It allows contributors to design templates for configuring code execution on infrastructure of their choice. The key challenge here was designing the configuration so that it would be ergonomic, compitible with the expectations of users familiar with Pydantic, and arbitrarily extensible. 
+This PR introduces configuration for an experimental workers feature. It allows contributors to design templates for configuring code execution on infrastructure of their choice. The key challenge here was designing the configuration so that it would be ergonomic, compitible with the expectations of users familiar with Pydantic, and arbitrarily extensible. 
 
 <!--
 **peytonrunyan/peytonrunyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
