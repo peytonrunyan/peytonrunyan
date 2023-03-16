@@ -20,7 +20,7 @@ But a great team beats all of that. Great teams come in all shapes and sizes, bu
 
 💻 **Experience Overview**
 
-I've worked in a variety of roles, mostly in Go and Python, and generally on the backend, though I've been known to dabble on the front end too. Most recently I worked at Prefect, a python data orchestration tool, where I built software to allow data scientists and data engineers to run their code in environments like AWS, GCP, and Kubernetes, with support for mixed synchronous, asynchronous, and parallel execution.
+I've worked in a variety of roles, mostly in Go and Python, and generally on the backend, though I've been known to dabble on the front end too. Most recently I worked at Prefect, a Python data orchestration tool, where I built software to allow data scientists and data engineers to run their code in environments like AWS, GCP, and Kubernetes, with support for mixed synchronous, asynchronous, and parallel execution.
 
 Prior to that I was one of the first engineers at a recycling company with a heavy emphasis on data and analytics. Our applications were a combination of Go and Python on the backend, and Angular on the frontend. 
 
